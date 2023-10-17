@@ -26,7 +26,7 @@ header{
 
 /* SFONDO GRIGIO */
 .sfondo-grigio{
-    background-color: rgb(233, 231, 231);
+    background-color: rgb(240, 238, 238);
     padding: 5px;
 }
 
@@ -69,3 +69,78 @@ button {
 }
 
 /* UNORDERED LIST */
+ul {
+    list-style-type: none;
+}
+
+.title-list {
+    font-size: 23px;
+}
+
+.title-list-today{
+    font-size: 23px;
+    margin-top: 20px;
+}
+
+.title-list-upcoming{
+    font-size: 23px;
+    margin-top: 20px;
+}
+
+.lista-non-ordinata {
+    padding-top: 20px;
+    margin-left: 50px;
+}
+
+.list-items{
+    margin-top: 14px;
+    font-size: 16px;
+}
+
+.editorial {
+    color: white;
+    background-color: hsl(197, 83%, 61%);
+    border-radius: 14px;
+    padding: 6px;
+    font-size: 13px;
+}
+
+.q1-goals {
+    color: white;
+    background-color: rgb(238, 90, 238);
+    border-radius: 14px;
+    padding: 6px;
+    font-size: 13px;
+}
+
+.recruiting {
+    color: white;
+    background-color: green;
+    border-radius: 14px;
+    padding: 6px;
+    font-size: 13px;
+}
+
+.mobile {
+    color: white;
+    background-color: orange;
+    border-radius: 14px;
+    padding: 6px;
+    font-size: 13px;
+}
+
+.website {
+    color: white;
+    background-color: rgb(247, 150, 166);
+    border-radius: 14px;
+    padding: 6px;
+    font-size: 13px;
+}
+
+.sales {
+    color: white;
+    background-color: lightgreen;
+    border-radius: 14px;
+    padding: 6px;
+    font-size: 13px;
+}
